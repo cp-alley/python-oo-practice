@@ -1,0 +1,12 @@
+#Animals
+
+dog
+cat
+rabbit
+eagle
+
+#Foods
+
+cheese
+apple
+banana
